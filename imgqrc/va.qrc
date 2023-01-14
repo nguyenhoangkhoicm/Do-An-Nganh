@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="vagif">
+    <file>va.gif</file>
+  </qresource>
+</RCC>
